@@ -52,8 +52,12 @@ body {
   background-image: url('../media/w.png');
 }
 
+.project_car {
+  background-image: url('../media/car.png');
+}
+
+
 .link {
-  /* background-color: $link-color; */
   width: 50%;
   height: 55px;
 }
@@ -83,10 +87,6 @@ body {
 .form-height {
   height: 100px;
   border-radius: 10px;
-}
-
-.color {
-  /* color: $link-color; */
 }
 
 .b_color {
@@ -126,6 +126,10 @@ li {
   background-image: url('../media/p1_big.png');
   background-size: cover;
 } */
+.project_0_big {
+  background-image: url('../media/used-car.png');
+  background-size: cover;
+}
 
 .project_1_big {
   background-image: url('../media/weathergif.gif');

@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-(https://ibehkingsley.herokuapp.com/)
+(https://kingsley-ibeh.netlify.app/)
 
 ## Author 
 
