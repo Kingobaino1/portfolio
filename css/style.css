@@ -41,7 +41,7 @@ body {
 }
 
 .project_1 {
-  background-image: url('../media/endrunner.gif');
+  background-image: url('../media/msa.png');
 }
 
 .project_2 {
@@ -49,11 +49,11 @@ body {
 }
 
 .project_3 {
-  background-image: url('../media/mola.png');
+  background-image: url('../media/md.png');
 }
 
 .project_car {
-  background-image: url('../media/car.png');
+  background-image: url('../media/ap.png');
 }
 
 
@@ -127,7 +127,7 @@ li {
   background-size: cover;
 } */
 .project_0_big {
-  background-image: url('../media/used-car.png');
+  background-image: url('../media/aproplat.png');
   background-size: cover;
 }
 
@@ -137,7 +137,7 @@ li {
 }
 
 .project_2_big {
-  background-image: url('../media/sign_in_page.png');
+  background-image: url('../media/como.png');
   background-size: cover;
 }
 
@@ -147,13 +147,13 @@ li {
 }
 
 .project_3_big {
-  background-image: url('../media/home_page.png');
+  background-image: url('../media/como.png');
     background-size: cover;
 
 }
 
 .project_4_big {
-  background-image: url('../media/comment_image.png');
+  background-image: url('../media/como.png');
   background-size: cover;
 }
 
