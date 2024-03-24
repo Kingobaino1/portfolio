@@ -41,11 +41,11 @@ body {
 }
 
 .project_1 {
-  background-image: url('../media/msa.png');
+  background-image: url('../media/mfc.png');
 }
 
 .project_2 {
-  background-image: url('../media/p2c.png');
+  background-image: url('../media/mfc.png');
 }
 
 .project_3 {
@@ -53,7 +53,7 @@ body {
 }
 
 .project_car {
-  background-image: url('../media/ap.png');
+  background-image: url('../media/mca.png');
 }
 
 
@@ -127,7 +127,7 @@ li {
   background-size: cover;
 } */
 .project_0_big {
-  background-image: url('../media/aproplat.png');
+  background-image: url('../media/mca.png');
   background-size: cover;
 }
 
@@ -142,7 +142,7 @@ li {
 }
 
 .project_2 {
-  background-image: url('../media/msa.png');
+  background-image: url('../media/mfc.png');
   background-size: cover;
 }
 
